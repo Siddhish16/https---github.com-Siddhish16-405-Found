@@ -1,0 +1,16 @@
+.logo{
+height: 2cm;
+align-items:center;
+justify-content: center;
+display: flex;
+}
+
+.App{
+    align-items:center;
+    justify-content: center;
+    display: flex;
+}
+
+.font{
+    font-size: larger;
+}
