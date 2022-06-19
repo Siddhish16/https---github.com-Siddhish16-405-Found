@@ -1,4 +1,3 @@
-
 import img from '../Image/Walchand-logo.png'
 
 function Header1(){
